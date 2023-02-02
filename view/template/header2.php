@@ -42,9 +42,9 @@ include ('nav2.php');
             </div>
 
             <h1 class="art-headline">
-    <a href="/">Діагност</a>
+    <a href="/">Diagnost</a>
 </h1>
-<h5 style="margin-left:14vw; color:#185177">Система самодіагностики <br>та визначення якості життя</h5>
+<h5 style="margin-left:14vw; color:#185177">Self-diagnostic system<br>and defining the quality of life</h5>
 
 
 
