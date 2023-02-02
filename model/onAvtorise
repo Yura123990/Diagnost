@@ -1,0 +1,7 @@
+<?php
+session_start();
+$path=dirname(__DIR__)."/vendor/AvtUp.php";
+require_once($path);
+
+$reg=new \vendor\AvtUp();
+

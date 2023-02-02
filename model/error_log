@@ -1,0 +1,619 @@
+[05-Nov-2021 20:02:05 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(11): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[05-Nov-2021 20:04:46 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(11): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[05-Nov-2021 20:04:54 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(11): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[05-Nov-2021 20:07:13 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(11): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[05-Nov-2021 20:07:53 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(11): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[05-Nov-2021 20:08:31 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(11): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[05-Nov-2021 20:08:38 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(11): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[05-Nov-2021 20:11:13 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(11): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[05-Nov-2021 20:11:20 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(11): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[05-Nov-2021 20:12:54 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(11): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[05-Nov-2021 20:15:38 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(11): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[05-Nov-2021 20:16:32 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(11): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[05-Nov-2021 20:17:48 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(11): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[05-Nov-2021 20:18:07 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(11): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[05-Nov-2021 20:19:58 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(11): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 09:16:11 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(11): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 09:16:23 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(11): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 09:20:30 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:20:30 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:20:30 Europe/Moscow] PHP Fatal error:  require(): Failed opening required 'vendor/Connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:20:43 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:20:43 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:20:43 Europe/Moscow] PHP Fatal error:  require(): Failed opening required 'vendor/Connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:23:38 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:23:38 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:23:38 Europe/Moscow] PHP Fatal error:  require(): Failed opening required 'vendor/Connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:26:32 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:26:32 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:26:32 Europe/Moscow] PHP Fatal error:  require(): Failed opening required 'vendor/Connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:26:41 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:26:41 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:26:41 Europe/Moscow] PHP Fatal error:  require(): Failed opening required 'vendor/Connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:36:48 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:36:48 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:36:48 Europe/Moscow] PHP Fatal error:  require(): Failed opening required 'vendor/Connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:37:27 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:37:27 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:37:27 Europe/Moscow] PHP Fatal error:  require(): Failed opening required 'vendor/Connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:37:39 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:37:39 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:37:39 Europe/Moscow] PHP Fatal error:  require(): Failed opening required 'vendor/Connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:39:06 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:39:06 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:39:06 Europe/Moscow] PHP Fatal error:  require(): Failed opening required 'vendor/Connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:40:34 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:40:34 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:40:34 Europe/Moscow] PHP Fatal error:  require(): Failed opening required 'vendor/Connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:42:55 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:42:55 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:42:55 Europe/Moscow] PHP Fatal error:  require(): Failed opening required 'vendor/Connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:43:05 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:43:05 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:43:05 Europe/Moscow] PHP Fatal error:  require(): Failed opening required 'vendor/Connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:43:31 Europe/Moscow] PHP Warning:  require_once(vendor/RegUp.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/model/onRegister.php on line 3
+[06-Nov-2021 09:43:31 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required 'vendor/RegUp.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u13865/public_html/diagnost/model/onRegister.php on line 3
+[06-Nov-2021 09:45:06 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:45:06 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:45:06 Europe/Moscow] PHP Fatal error:  require(): Failed opening required 'vendor/Connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:45:12 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:45:12 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:45:12 Europe/Moscow] PHP Fatal error:  require(): Failed opening required 'vendor/Connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:45:32 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:45:32 Europe/Moscow] PHP Warning:  require(vendor/Connect.php): failed to open stream: No such file or directory in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:45:32 Europe/Moscow] PHP Fatal error:  require(): Failed opening required 'vendor/Connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 6
+[06-Nov-2021 09:48:20 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:13
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(13): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(11): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 13
+[06-Nov-2021 09:49:02 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:13
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(13): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 13
+[06-Nov-2021 09:50:54 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:13
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(13): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(71): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 13
+[06-Nov-2021 09:52:45 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:13
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(13): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(71): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 13
+[06-Nov-2021 09:54:07 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 09:54:43 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 09:55:04 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 09:56:17 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 09:57:54 Europe/Moscow] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 51
+[06-Nov-2021 09:59:27 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:01:20 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:04:29 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:23:42 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:23:49 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:24:51 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:25:49 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:25:56 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:27:13 Europe/Moscow] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 65
+[06-Nov-2021 10:27:27 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(71): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:29:52 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(72): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:30:55 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(71): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:31:13 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(71): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:31:57 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(71): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:32:23 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(71): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:34:18 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(71): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:35:11 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(71): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:35:49 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(71): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:38:02 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(71): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:50:17 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(72): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:51:28 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(72): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:51:37 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'127.0.0.1' (using password: NO) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'root', '')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(72): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:54:54 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'u13865_work'@'127.0.0.1' (using password: YES) in /home/u13865/public_html/diagnost/vendor/Connect.php:12
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(12): PDO->__construct('mysql:host=127....', 'u13865_work', 'workstudent')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(72): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 12
+[06-Nov-2021 10:55:55 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u13865/public_html/diagnost/vendor/RegUp.php:74
+Stack trace:
+#0 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#1 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 74
+[06-Nov-2021 11:22:36 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u13865/public_html/diagnost/vendor/RegUp.php:74
+Stack trace:
+#0 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#1 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 74
+[06-Nov-2021 11:23:35 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u13865/public_html/diagnost/vendor/RegUp.php:74
+Stack trace:
+#0 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#1 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 74
+[06-Nov-2021 11:23:58 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u13865/public_html/diagnost/vendor/RegUp.php:74
+Stack trace:
+#0 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#1 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 74
+[06-Nov-2021 11:24:20 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u13865/public_html/diagnost/vendor/RegUp.php:74
+Stack trace:
+#0 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#1 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 74
+[06-Nov-2021 11:24:34 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u13865/public_html/diagnost/vendor/RegUp.php:74
+Stack trace:
+#0 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#1 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 74
+[06-Nov-2021 11:24:43 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u13865/public_html/diagnost/vendor/RegUp.php:74
+Stack trace:
+#0 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#1 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 74
+[06-Nov-2021 11:25:25 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u13865/public_html/diagnost/vendor/RegUp.php:74
+Stack trace:
+#0 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#1 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 74
+[06-Nov-2021 11:28:00 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u13865/public_html/diagnost/vendor/RegUp.php:74
+Stack trace:
+#0 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#1 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 74
+[06-Nov-2021 11:30:05 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 73
+[06-Nov-2021 11:30:27 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 73
+[06-Nov-2021 11:30:37 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 73
+[06-Nov-2021 11:39:29 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'u13865_work'@'127.0.0.1' (using password: YES) in /home/u13865/public_html/diagnost/vendor/Connect.php:14
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(14): PDO->__construct('mysql:host=127....', 'u13865_work', 'workstudent')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[06-Nov-2021 11:39:58 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'u13865_work'@'127.0.0.1' (using password: YES) in /home/u13865/public_html/diagnost/vendor/Connect.php:14
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(14): PDO->__construct('mysql:host=127....', 'u13865_work', 'workstudent')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[06-Nov-2021 11:40:22 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'vendor\Connect' not found in /home/u13865/public_html/diagnost/vendor/RegUp.php:70
+Stack trace:
+#0 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#1 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 70
+[06-Nov-2021 11:40:36 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'vendor\Connect' not found in /home/u13865/public_html/diagnost/vendor/RegUp.php:70
+Stack trace:
+#0 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#1 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 70
+[06-Nov-2021 11:40:50 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'u13865_work'@'127.0.0.1' (using password: YES) in /home/u13865/public_html/diagnost/vendor/Connect.php:14
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/Connect.php(14): PDO->__construct('mysql:host=127....', 'u13865_work', 'workstudent')
+#1 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): vendor\Connect->__construct()
+#2 /home/u13865/public_html/diagnost/model/onRegister.php(12): vendor\RegUp->addUser()
+#3 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[06-Nov-2021 11:44:26 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[06-Nov-2021 11:44:26 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, object given in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 70
+[06-Nov-2021 11:44:26 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[06-Nov-2021 11:45:20 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[06-Nov-2021 11:45:20 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, object given in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 70
+[06-Nov-2021 11:45:20 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[06-Nov-2021 11:49:50 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[06-Nov-2021 11:49:50 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, object given in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 70
+[06-Nov-2021 11:49:50 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 09:50:29 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 09:50:29 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 09:50:29 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 09:50:29 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 09:52:03 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 09:52:03 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 09:52:03 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 09:52:03 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 09:58:05 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 09:58:05 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 09:58:05 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 09:58:05 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 09:58:26 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 09:58:26 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 09:58:26 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 09:58:26 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 09:58:58 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 09:58:58 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 09:58:58 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 09:58:58 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 10:01:25 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 10:01:25 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 10:01:25 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 10:01:25 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 10:02:16 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 10:02:16 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 10:02:16 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 10:02:16 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 10:02:58 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 10:02:58 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 10:02:58 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 10:02:58 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 10:05:03 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 10:05:03 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 10:05:03 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 10:05:03 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 10:06:56 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 10:06:56 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 10:06:56 Europe/Moscow] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/u13865/public_html/diagnost/vendor/Connect.php on line 14
+[07-Nov-2021 10:06:56 Europe/Moscow] PHP Warning:  PDOStatement::fetchAll(): SQLSTATE[HY000]: General error: Invalid class name (should be a string) in /home/u13865/public_html/diagnost/vendor/Connect.php on line 30
+[07-Nov-2021 10:09:07 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined method App\Db::query() in /home/u13865/public_html/diagnost/vendor/RegUp.php:73
+Stack trace:
+#0 /home/u13865/public_html/diagnost/model/onRegister.php(13): vendor\RegUp->addUser()
+#1 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 73
+[07-Nov-2021 10:19:46 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function quering() on null in /home/u13865/public_html/diagnost/vendor/RegUp.php:76
+Stack trace:
+#0 /home/u13865/public_html/diagnost/model/onRegister.php(13): vendor\RegUp->addUser()
+#1 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 76
+[07-Nov-2021 10:25:51 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function quering() on null in /home/u13865/public_html/diagnost/vendor/RegUp.php:75
+Stack trace:
+#0 /home/u13865/public_html/diagnost/model/onRegister.php(13): vendor\RegUp->addUser()
+#1 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 75
+[07-Nov-2021 10:28:53 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function quering() on null in /home/u13865/public_html/diagnost/vendor/RegUp.php:77
+Stack trace:
+#0 /home/u13865/public_html/diagnost/model/onRegister.php(13): vendor\RegUp->addUser()
+#1 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 77
+[07-Nov-2021 10:29:24 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function quering() on null in /home/u13865/public_html/diagnost/vendor/RegUp.php:77
+Stack trace:
+#0 /home/u13865/public_html/diagnost/model/onRegister.php(13): vendor\RegUp->addUser()
+#1 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 77
+[07-Nov-2021 10:36:14 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:79) in /home/u13865/public_html/diagnost/model/onRegister.php on line 15
+[07-Nov-2021 10:37:14 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:79) in /home/u13865/public_html/diagnost/model/onRegister.php on line 15
+[07-Nov-2021 10:37:35 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:79) in /home/u13865/public_html/diagnost/model/onRegister.php on line 14
+[07-Nov-2021 10:39:14 Europe/Moscow] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/u13865/public_html/diagnost/model/onRegister.php on line 12
+[07-Nov-2021 10:39:44 Europe/Moscow] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/u13865/public_html/diagnost/model/onRegister.php on line 12
+[07-Nov-2021 10:39:50 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:79) in /home/u13865/public_html/diagnost/model/onRegister.php on line 15
+[07-Nov-2021 10:45:01 Europe/Moscow] PHP Warning:  Use of undefined constant path - assumed 'path' (this will throw an Error in a future version of PHP) in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 60
+[07-Nov-2021 10:45:01 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:79) in /home/u13865/public_html/diagnost/model/onRegister.php on line 15
+[07-Nov-2021 10:48:23 Europe/Moscow] PHP Warning:  Use of undefined constant path - assumed 'path' (this will throw an Error in a future version of PHP) in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 60
+[07-Nov-2021 10:48:23 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:78) in /home/u13865/public_html/diagnost/model/onRegister.php on line 15
+[07-Nov-2021 10:48:41 Europe/Moscow] PHP Warning:  Use of undefined constant path - assumed 'path' (this will throw an Error in a future version of PHP) in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 60
+[07-Nov-2021 10:48:41 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:78) in /home/u13865/public_html/diagnost/model/onRegister.php on line 15
+[07-Nov-2021 10:49:22 Europe/Moscow] PHP Warning:  Use of undefined constant path - assumed 'path' (this will throw an Error in a future version of PHP) in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 60
+[07-Nov-2021 10:49:22 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:78) in /home/u13865/public_html/diagnost/model/onRegister.php on line 15
+[07-Nov-2021 10:50:08 Europe/Moscow] PHP Warning:  Use of undefined constant path - assumed 'path' (this will throw an Error in a future version of PHP) in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 60
+[07-Nov-2021 10:50:08 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:78) in /home/u13865/public_html/diagnost/model/onRegister.php on line 15
+[07-Nov-2021 10:50:40 Europe/Moscow] PHP Warning:  Use of undefined constant path - assumed 'path' (this will throw an Error in a future version of PHP) in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 60
+[07-Nov-2021 10:50:40 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 15
+[07-Nov-2021 10:53:43 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 15
+[07-Nov-2021 10:54:00 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 15
+[07-Nov-2021 10:55:11 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 15
+[07-Nov-2021 10:57:14 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 17
+[07-Nov-2021 10:59:02 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 17
+[07-Nov-2021 11:00:22 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 17
+[07-Nov-2021 11:01:32 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 17
+[07-Nov-2021 13:31:58 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 17
+[07-Nov-2021 13:32:35 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 17
+[07-Nov-2021 13:34:45 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 17
+[07-Nov-2021 13:37:17 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 17
+[07-Nov-2021 13:37:17 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 19
+[07-Nov-2021 13:38:26 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 17
+[07-Nov-2021 13:41:32 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 17
+[07-Nov-2021 13:51:07 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 17
+[07-Nov-2021 13:51:07 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 19
+[07-Nov-2021 13:59:21 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 17
+[07-Nov-2021 13:59:21 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 18
+[07-Nov-2021 14:01:47 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 18
+[07-Nov-2021 14:01:47 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 19
+[07-Nov-2021 14:02:25 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 18
+[07-Nov-2021 14:02:25 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 19
+[07-Nov-2021 14:05:58 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 18
+[07-Nov-2021 14:05:58 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 19
+[07-Nov-2021 14:06:31 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 18
+[07-Nov-2021 14:06:31 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 19
+[07-Nov-2021 14:06:43 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 18
+[07-Nov-2021 14:06:43 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 19
+[07-Nov-2021 14:08:40 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 18
+[07-Nov-2021 14:08:40 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 19
+[07-Nov-2021 14:09:15 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 18
+[07-Nov-2021 14:09:15 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 19
+[07-Nov-2021 14:10:10 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 18
+[07-Nov-2021 14:12:47 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 18
+[07-Nov-2021 14:12:47 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 19
+[07-Nov-2021 14:13:47 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 18
+[07-Nov-2021 14:13:47 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 19
+[07-Nov-2021 14:14:20 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 18
+[07-Nov-2021 14:14:20 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 19
+[07-Nov-2021 14:15:57 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 18
+[07-Nov-2021 14:15:57 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 20
+[07-Nov-2021 14:16:07 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 18
+[07-Nov-2021 14:16:07 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 20
+[07-Nov-2021 14:21:12 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 18
+[07-Nov-2021 14:21:12 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 20
+[07-Nov-2021 14:21:38 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 18
+[07-Nov-2021 14:21:38 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 20
+[07-Nov-2021 14:24:23 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 18
+[07-Nov-2021 14:24:23 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u13865/public_html/diagnost/vendor/RegUp.php:76) in /home/u13865/public_html/diagnost/model/onRegister.php on line 20
+[07-Nov-2021 17:23:50 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: Return value of vendor\RegUp::getPassword() must be of the type string, null returned in /home/u13865/public_html/diagnost/vendor/RegUp.php:42
+Stack trace:
+#0 /home/u13865/public_html/diagnost/model/onRegister.php(10): vendor\RegUp->getPassword()
+#1 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 42
+[08-Nov-2021 12:15:03 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'App\PDO' not found in /home/u13865/public_html/diagnost/App/Db.php:30
+Stack trace:
+#0 /home/u13865/public_html/diagnost/vendor/RegUp.php(70): App\Db->quering('INSERT INTO u13...')
+#1 /home/u13865/public_html/diagnost/model/onRegister.php(20): vendor\RegUp->addUser()
+#2 {main}
+  thrown in /home/u13865/public_html/diagnost/App/Db.php on line 30
+[25-Nov-2021 19:01:38 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: Return value of vendor\RegUp::getPassword() must be of the type string, null returned in /home/u13865/public_html/diagnost/vendor/RegUp.php:40
+Stack trace:
+#0 /home/u13865/public_html/diagnost/model/onRegister.php(10): vendor\RegUp->getPassword()
+#1 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 40
+[30-Nov-2021 10:57:31 Europe/Moscow] PHP Fatal error:  Uncaught TypeError: Return value of vendor\RegUp::getPassword() must be of the type string, null returned in /home/u13865/public_html/diagnost/vendor/RegUp.php:40
+Stack trace:
+#0 /home/u13865/public_html/diagnost/model/onRegister.php(10): vendor\RegUp->getPassword()
+#1 {main}
+  thrown in /home/u13865/public_html/diagnost/vendor/RegUp.php on line 40
