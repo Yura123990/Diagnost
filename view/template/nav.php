@@ -7,12 +7,12 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="main.php">Головна <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="main.php">Main <span class="sr-only">(current)</span></a>
       </li>
       
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Якість життя
+          Life quality
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="personal/levellife/nicotin.php">Оцінка нікотинової залежності</a>
@@ -29,26 +29,26 @@
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Діагностика
+          Diagnostics
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="personal/diagnost/viral.php">Вірусні захворювання</a>
-          <a class="dropdown-item" href="personal/diagnost/gastroenterological.php">Гастроентерологічні захворювання</a>
-          <a class="dropdown-item" href="personal/diagnost/cardiovascular.php">Серцево-судинні захворювання</a>
+          <a class="dropdown-item" href="personal/diagnost/viral.php">Viral diseases</a>
+          <a class="dropdown-item" href="personal/diagnost/gastroenterological.php">Gastroenterological diseases</a>
+          <a class="dropdown-item" href="personal/diagnost/cardiovascular.php">Cardiovascular diseases</a>
        
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="personal/levellife/psycho-emotional.php">Діагностика психоемоційної напруги</a>
-          <a class="dropdown-item" href="personal/levellife/stress.php">Рівень власного стресу та стресостійкість</a>
-          <a class="dropdown-item" href="personal/levellife/depression.php">Виявлення тяжкості депресії</a>
+          <a class="dropdown-item" href="personal/levellife/psycho-emotional.php">Diagnostics of psycho-emotional stress</a>
+          <a class="dropdown-item" href="personal/levellife/stress.php">Personal stress level and stress resistance</a>
+          <a class="dropdown-item" href="personal/levellife/depression.php">Determining the severity of depression</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="personal/levellife/quality_of_life.php">Оцінка якості життя</a>
+          <a class="dropdown-item" href="personal/levellife/quality_of_life.php">Assessment of quality of life</a>
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="conacts.php">Контакти</a>
+        <a class="nav-link" href="conacts.php">Contacts</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link disabled" href="../../index.php">Вихід</a>
+        <a class="nav-link disabled" href="../../index.php">Log out</a>
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">

@@ -1,6 +1,6 @@
 <?php
 session_start();
-if ($_SESSION['role']!=1){ header('Location: https://diagnost.virtlabse.com');}
+if ($_SESSION['role']!=1){ header('Location: https://defindviral.virtlabse.com');}
 include('../../header2.php');
 ?>
 <?php

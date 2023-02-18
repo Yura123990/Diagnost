@@ -15,14 +15,14 @@ require 'vendor/Avtor.php';
 </head>
 <body>
     <form action="index.php" method="post">
-        <label>Логін</label><input type="text" name="login" placeholder="Введіть свій логін">
-        <label>Пароль</label><input type="password" name="password" placeholder="Введіть свій пароль">
-        <button type="submit">Увійти</button>
+        <label>Login</label><input type="text" name="login" placeholder="Enter your login">
+        <label>Password</label><input type="password" name="password" placeholder="Enter your password">
+        <button type="submit">Sign in</button>
         <?php
         if (isset($_SESSION['message'])) {$_SESSION['message']="Реєстрація пройшла успішно";  echo "<p>". $_SESSION['message']."</p>"; unset($_SESSION['message']);};
                 ?>
         <p>
-            У вас немає облікового запису? - <a href="register.php">зареєструйтесь</a>
+        Don't have an account? - <a href="register.php">register</a>
         </p>
     </form>
 </body>

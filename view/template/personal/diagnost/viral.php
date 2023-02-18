@@ -1,4 +1,8 @@
 <?php
+define('DEBUG', true);
+
+error_reporting(E_ALL);
+ini_set('display_errors', DEBUG ? 'On' : 'Off');
 session_start();
 	if ($_SESSION['role']!=1){ header('Location: https://diagnost.virtlabse.com');}
 include('../../header2.php');

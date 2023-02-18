@@ -10,6 +10,7 @@ class virusDiagnost
 
     }
     public function diagnoz(){
+        $funct = 0;
         $result=0;
         if (isset($_POST['sb_user'])) {
             foreach ($_POST as $key => $simpt) {
